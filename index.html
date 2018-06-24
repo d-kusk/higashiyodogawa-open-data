@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>大阪府大阪市東淀川区オープンデータ</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ajusa/lit@latest/dist/lit.css" />
+</head>
+<body>
+  <h1>大阪府大阪市東淀川区オープンデータ</h1>
+  <p>東淀川区用で公開されているオープンデータを、一部JSON-LD化したもの。主に自分用。</p>
+
+  <section>
+    <h2>JSON-LD簡易API置き場</h2>
+    <ul>
+      <li>
+        <a href="./dist/disaster_refuge.jsonld">大阪府大阪市東淀川区災害時避難所データ</a>(災害の状況に応じて開設されます)<br>
+        データソース:<a href="http://www.city.osaka.lg.jp/higashiyodogawa/page/0000155146.html">大阪市東淀川区：区内の避難場所 （生活 > 各お問合せ窓口）</a>
+        <small>2018年1月16日時点の情報をJSON-LDに加工</small>
+      </li>
+      <li>
+        <a href="./dist/temporary_refuge.jsonld">大阪府大阪市東淀川区一時避難場所の公園データ</a><br>
+        データソース:<a href="http://www.city.osaka.lg.jp/higashiyodogawa/page/0000155146.html">大阪市東淀川区：区内の避難場所 （生活 > 各お問合せ窓口）</a>
+        <small>2018年1月16日時点の情報をJSON-LDに加工</small>
+      </li>
+    </ul>
+  </section>
+  <aside>
+    <h2>その他情報</h2>
+    <ul>
+      <li><a href="./dist/map_omote.pdf">災害時の避難場所について</a>(地図 形式:PDF)<small>(2018年1月16日の情報)</small></li>
+      <li><a href="http://www.osaka-bousai.net/osaka/index.html">避難所開設情報</a>(外部サイト)</li>
+    </ul>
+  </aside>
+</body>
+</html>

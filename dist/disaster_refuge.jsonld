@@ -1,0 +1,365 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "name": "schema:name",
+    "address": "schema:address",
+    "category": "schema:category",
+    "geo": "schema:geo",
+    "latitude": "schema:latitude",
+    "longitude": "schema:longitude"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Place",
+      "name": "東井高野小学校",
+      "address": "東淀川区井高野2-8-28",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.765319",
+        "longitude": "135.549051"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "井高野中学校",
+      "address": "東淀川区井高野2-8-13",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.764797",
+        "longitude": "135.547993"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "井高野小学校",
+      "address": "東淀川区井高野1-28-17",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.762564",
+        "longitude": "135.544227"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大隅東小学校",
+      "address": "東淀川区瑞光5-8-19",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75341",
+        "longitude": "135.551913"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大隅西小学校",
+      "address": "東淀川区大隅2-3-18",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.751057",
+        "longitude": "135.546444"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瑞光中学校",
+      "address": "東淀川区瑞光4-9-37",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.752587",
+        "longitude": "135.544961"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大阪経済大学",
+      "address": "東淀川区大隅2-2-8",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.749729",
+        "longitude": "135.544375"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大桐小学校",
+      "address": "東淀川区大桐4-1-15",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.748049",
+        "longitude": "135.548383"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大桐中学校",
+      "address": "東淀川区大桐4-5-8",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.748846",
+        "longitude": "135.548891"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大道南小学校",
+      "address": "東淀川区大道南1-23-6",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74275",
+        "longitude": "135.54988"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "豊里小学校",
+      "address": "東淀川区豊里5-14-60",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.741783",
+        "longitude": "135.54408"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東淀中学校",
+      "address": "東淀川区豊里6-25-19",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.743975",
+        "longitude": "135.537359"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "新東淀中学校",
+      "address": "東淀川区豊里1-10-32",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.739742",
+        "longitude": "135.533945"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大阪北視覚支援学校",
+      "address": "東淀川区豊里7-5-26xa0",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742911",
+        "longitude": "135.5421"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北淀高等学校",
+      "address": "東淀川区豊里2-11-35",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7398",
+        "longitude": "135.536842"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "豊里南小学校",
+      "address": "東淀川区豊里5-12-41",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.739173",
+        "longitude": "135.543944"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "豊新小学校",
+      "address": "東淀川区豊新4-17-26",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74568",
+        "longitude": "135.535759"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "小松小学校",
+      "address": "東淀川区小松3-18-15",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.754845",
+        "longitude": "135.539366"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大阪高等学校",
+      "address": "東淀川区相川2-18-51",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.759192",
+        "longitude": "135.535353"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大阪成蹊学園",
+      "address": "東淀川区相川3-10-62",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.759386",
+        "longitude": "135.537192"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "新庄小学校",
+      "address": "東淀川区上新庄2-20-5",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.748063",
+        "longitude": "135.532417"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "関西大学北陽高等学校",
+      "address": "東淀川区上新庄1-3-26",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.745935",
+        "longitude": "135.52939"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "下新庄小学校",
+      "address": "東淀川区下新庄5-2-9",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.746054",
+        "longitude": "135.520585"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "菅原小学校",
+      "address": "東淀川区菅原6-3-25",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.739125",
+        "longitude": "135.523252"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東淡路小学校",
+      "address": "東淀川区東淡路3-3-32",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7361",
+        "longitude": "135.518483"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "柴島中学校",
+      "address": "東淀川区柴島2-8-36",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.727648",
+        "longitude": "135.51235"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西淡路小学校",
+      "address": "東淀川区西淡路5-5-32",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742979",
+        "longitude": "135.511075"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "淡路中学校",
+      "address": "東淀川区西淡路4-25-53",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.743166",
+        "longitude": "135.509883"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "もと西淡路小学校",
+      "address": "東淀川区西淡路3-14-11",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.740033",
+        "longitude": "135.510295"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "啓発小学校・中島中学校",
+      "address": "東淀川区東中島4-8-38",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.732333",
+        "longitude": "135.507114"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東淀川支援学校",
+      "address": "東淀川区東中島3-5-22",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.731075",
+        "longitude": "135.504853"
+      },
+      "category": "災害時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "柴島高等学校",
+      "address": "東淀川区柴島1-7-106",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.729056",
+        "longitude": "135.509747"
+      },
+      "category": "災害時避難所"
+    }
+  ]
+}

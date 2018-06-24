@@ -1,0 +1,717 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "name": "schema:name",
+    "address": "schema:address",
+    "category": "schema:category",
+    "geo": "schema:geo",
+    "latitude": "schema:latitude",
+    "longitude": "schema:longitude"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Place",
+      "name": "井高野南公園",
+      "address": "東淀川区井高野1丁目3番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.762905",
+        "longitude": "135.543033"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "井高野公園",
+      "address": "東淀川区井高野3丁目3番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.765049",
+        "longitude": "135.544613"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北江口中央公園",
+      "address": "東淀川区北江口2丁目1番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.758559",
+        "longitude": "135.54411"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北江口公園",
+      "address": "東淀川区北江口2丁目10番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.758389",
+        "longitude": "135.546266"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南江口北公園",
+      "address": "東淀川区南江口3丁目2番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.755059",
+        "longitude": "135.552215"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南江口公園",
+      "address": "東淀川区南江口3丁目13番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.753018",
+        "longitude": "135.553954"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大隅東公園",
+      "address": "東淀川区瑞光4丁目5番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.752426",
+        "longitude": "135.549116"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瑞光4公園",
+      "address": "東淀川区瑞光4丁目4番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.751938",
+        "longitude": "135.548116"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大門公園",
+      "address": "東淀川区大隅1丁目5番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.748468",
+        "longitude": "135.540453"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大隅公園",
+      "address": "東淀川区大桐5丁目14番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.750327",
+        "longitude": "135.550463"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東大道公園",
+      "address": "東淀川区大桐4丁目3番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.746336",
+        "longitude": "135.552085"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大桐公園",
+      "address": "東淀川区大桐3丁目8番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.747394",
+        "longitude": "135.545905"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "今在家公園",
+      "address": "東淀川区大桐2丁目2番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.745822",
+        "longitude": "135.543889"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "三宝寺西公園",
+      "address": "東淀川区大桐2丁目10番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.748069",
+        "longitude": "135.542966"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "竹間公園",
+      "address": "東淀川区大道南1丁目5番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.740625",
+        "longitude": "135.548944"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "能条東公園",
+      "address": "東淀川区大道南1丁目19番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742772",
+        "longitude": "135.549135"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "能条公園",
+      "address": "東淀川区大道南3丁目2番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742083",
+        "longitude": "135.546536"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大道南公園",
+      "address": "東淀川区大道南1丁目30番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.743106",
+        "longitude": "135.551685"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大道公園",
+      "address": "東淀川区大道南2丁目16番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.744297",
+        "longitude": "135.550113"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大道北公園",
+      "address": "東淀川区大道南2丁目19番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.745761",
+        "longitude": "135.54881"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "豊里さつき公園",
+      "address": "東淀川区豊里7丁目25番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.744477",
+        "longitude": "135.539686"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "豊里中央公園",
+      "address": "東淀川区豊里5丁目14番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.741997",
+        "longitude": "135.543655"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "野村公園",
+      "address": "東淀川区豊里3丁目4番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73752",
+        "longitude": "135.544397"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "三番公園",
+      "address": "東淀川区豊里2丁目4番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73757",
+        "longitude": "135.538939"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "豊里三角公園",
+      "address": "東淀川区豊里2丁目23番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7417",
+        "longitude": "135.53537"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北淀公園",
+      "address": "東淀川区豊里1丁目8番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.738886",
+        "longitude": "135.53414"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "かぶと公園",
+      "address": "東淀川区豊新4丁目10番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.744255",
+        "longitude": "135.536742"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "六原公園",
+      "address": "東淀川区豊新3丁目2番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.743122",
+        "longitude": "135.531115"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "多幸公園",
+      "address": "東淀川区豊新2丁目8番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742916",
+        "longitude": "135.529368"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "豊北公園",
+      "address": "東淀川区豊新1丁目12番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742311",
+        "longitude": "135.532667"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "松山公園",
+      "address": "東淀川区小松4丁目14番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.753818",
+        "longitude": "135.540736"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "小松公園",
+      "address": "東淀川区小松2丁目12番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75307",
+        "longitude": "135.53595"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瑞光寺公園",
+      "address": "東淀川区瑞光2丁目2番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75001",
+        "longitude": "135.538367"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "新庄公園",
+      "address": "東淀川区上新庄2丁目12番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.747857",
+        "longitude": "135.530981"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "下新庄公園",
+      "address": "東淀川区下新庄5丁目17番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.747571",
+        "longitude": "135.523324"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "下新庄小公園",
+      "address": "東淀川区下新庄5丁目3番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.745341",
+        "longitude": "135.521585"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "下新庄北公園",
+      "address": "東淀川区下新庄4丁目14番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.746477",
+        "longitude": "135.517827"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳩ヶ瀬公園",
+      "address": "東淀川区下新庄1丁目9番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.744035",
+        "longitude": "135.518033"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "菅原天満宮公園",
+      "address": "東淀川区菅原2丁目2番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.737892",
+        "longitude": "135.529879"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "菅原東公園",
+      "address": "東淀川区菅原4丁目8番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.739911",
+        "longitude": "135.527576"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "菅原公園",
+      "address": "東淀川区菅原3丁目6番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.738858",
+        "longitude": "135.525985"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "和合公園",
+      "address": "東淀川区菅原3丁目2番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.738247",
+        "longitude": "135.525227"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "菅原北公園",
+      "address": "東淀川区菅原7丁目9番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742194",
+        "longitude": "135.523235"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "菅原西公園",
+      "address": "東淀川区菅原5丁目1番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.739675",
+        "longitude": "135.520913"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東淡路町公園",
+      "address": "東淀川区東淡路4丁目24番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.738816",
+        "longitude": "135.520594"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東淡路南公園",
+      "address": "東淀川区東淡路2丁目5番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.735847",
+        "longitude": "135.517361"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "柴島西公園",
+      "address": "東淀川区柴島3丁目7番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.731039",
+        "longitude": "135.514283"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "柴島東公園",
+      "address": "東淀川区柴島2丁目18番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.729037",
+        "longitude": "135.514658"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "飛鳥町公園",
+      "address": "東淀川区柴島1丁目7番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72854",
+        "longitude": "135.51035"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "淡路2公園",
+      "address": "東淀川区淡路2丁目1番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.735586",
+        "longitude": "135.51125"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "淡路3公園",
+      "address": "東淀川区淡路3丁目13番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.738125",
+        "longitude": "135.513333"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "淡路4公園",
+      "address": "東淀川区淡路4丁目15番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.740463",
+        "longitude": "135.514883"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "淡路公園",
+      "address": "東淀川区淡路5丁目14番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742463",
+        "longitude": "135.515444"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "須賀森公園",
+      "address": "東淀川区西淡路4丁目17番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.742291",
+        "longitude": "135.507075"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西淡路公園",
+      "address": "東淀川区西淡路3丁目1番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.738463",
+        "longitude": "135.508923"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "日之出公園",
+      "address": "東淀川区西淡路1丁目5番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.736708",
+        "longitude": "135.503695"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "日之出北公園",
+      "address": "東淀川区西淡路1丁目12番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.738022",
+        "longitude": "135.504665"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "日之出南公園",
+      "address": "東淀川区西淡路2丁目1番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.734728",
+        "longitude": "135.505448"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "日之出東公園",
+      "address": "東淀川区東中島5丁目6番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.733422",
+        "longitude": "135.507562"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "新駅2号公園",
+      "address": "東淀川区東中島4丁目3番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.731967",
+        "longitude": "135.505287"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南方公園",
+      "address": "東淀川区東中島2丁目24番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.728556",
+        "longitude": "135.506606"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南方南公園",
+      "address": "東淀川区東中島2丁目5番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.727353",
+        "longitude": "135.504834"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南方北公園",
+      "address": "東淀川区東中島2丁目18番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.728831",
+        "longitude": "135.505606"
+      },
+      "category": "一時避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "山口本町公園",
+      "address": "東淀川区東中島1丁目14番",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.731486",
+        "longitude": "135.502651"
+      },
+      "category": "一時避難所"
+    }
+  ]
+}
